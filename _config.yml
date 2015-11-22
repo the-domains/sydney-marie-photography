@@ -1,0 +1,28 @@
+name: Sydney Marie Photography
+favicon: null
+layout_spectrum: 0.27159572183154523
+typography_spectrum: 0.9380143873859197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.83706687646918
+  lightness: 0.6728194309398532
+  saturation: 0.2861983203329146
+  rhythmicContrast: 0.8607158679515123
+purpose: []
